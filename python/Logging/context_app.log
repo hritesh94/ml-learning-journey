@@ -1,0 +1,10 @@
+2026-08-15 11:38:47,766 - context_log - DEBUG - test_func - 13
+2026-08-15 11:38:47,770 - context_log - INFO - test_func - 14
+2026-08-15 11:38:47,774 - context_log - WARNING - test_func - 15
+2026-08-15 11:38:47,777 - context_log - ERROR - test_func - 16
+2026-08-15 11:38:47,782 - context_log - CRITICAL - test_func - 17
+2026-08-15 11:41:01,546 - context_log - DEBUG - test_func - 13
+2026-08-15 11:41:01,546 - context_log - INFO - test_func - 14
+2026-08-15 11:41:01,546 - context_log - WARNING - test_func - 15
+2026-08-15 11:41:01,546 - context_log - ERROR - test_func - 16
+2026-08-15 11:41:01,546 - context_log - CRITICAL - test_func - 17

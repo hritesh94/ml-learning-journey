@@ -1,0 +1,10 @@
+31. Constructors initialize object data.
+32. Inheritance promotes code reuse.
+33. Polymorphism makes code more flexible.
+34. Encapsulation protects internal details.
+35. Python supports object-oriented programming.
+36. It also supports functional programming.
+37. List comprehensions make code concise.
+38. Dictionary comprehensions are equally powerful.
+39. Generator expressions save memory.
+40. Iterators produce values one at a time.

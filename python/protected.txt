@@ -1,0 +1,13 @@
+this is gandu text okay
+if you can read this youre gandu 
+and the gandu protection system didnt work
+IT WORKED
+
+Method 1: Remove your own read permission (best for this assignment)
+Create protected.txt.
+Right-click it → Properties.
+Go to the Security tab.
+Click Edit.
+Select your Windows user.
+Under Permissions, check Deny for Read.
+Click Apply.

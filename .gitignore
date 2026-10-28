@@ -1,0 +1,40 @@
+# ---- Tutor's course repos (cloned from github.com/krishnaik06, not my code) ----
+Complete-Data-Science-With-Machine-Learning-And-NLP-2024/
+Complete-Python-Bootcamp/
+
+# ---- Scratch folder (only a venv and a test notebook) ----
+code/
+
+# ---- Virtual environments ----
+venv/
+.venv/
+env/
+ENV/
+
+# ---- Python cache ----
+__pycache__/
+*.py[cod]
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Duplicate downloads (exact copies of another notebook in the same folder) ----
+*(1).ipynb
+* (1).ipynb
+
+# ---- Datasets over 50 MB ----
+# GitHub rejects files over 100 MB and warns above 50 MB. Git can't ignore by size,
+# so list any big dataset here by name. Find them with:
+#   find . -type f -size +50M -not -path "./.git/*"
+# (none right now: the largest file in this repo is ~3 MB)
+*.zip
+*.parquet
+*.h5
+*.pkl
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

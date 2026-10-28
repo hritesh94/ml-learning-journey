@@ -1,0 +1,10 @@
+41. Generators use the `yield` keyword.
+42. Decorators modify function behavior.
+43. Lambda functions create anonymous functions.
+44. Recursion solves problems elegantly.
+45. Algorithms improve efficiency.
+46. Data structures organize information.
+47. Time complexity measures performance.
+48. Space complexity measures memory usage.
+49. Version control tracks code changes.
+50. Git is widely used for collaboration.

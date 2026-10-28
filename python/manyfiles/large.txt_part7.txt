@@ -1,0 +1,10 @@
+61. REST APIs are widely used.
+62. Databases store information efficiently.
+63. SQL manages relational databases.
+64. SQLite is lightweight and useful.
+65. Machine learning uses data to make predictions.
+66. Artificial intelligence solves complex problems.
+67. Robotics combines hardware and software.
+68. Sensors collect information from the environment.
+69. Actuators perform physical actions.
+70. Embedded systems control electronic devices.

@@ -1,0 +1,10 @@
+21. Modules help organize large projects.
+22. Packages contain multiple related modules.
+23. The `with` statement manages resources safely.
+24. File handling lets programs read and write data.
+25. Exception handling prevents unexpected crashes.
+26. The `try` block contains risky code.
+27. The `except` block handles errors gracefully.
+28. The `finally` block always executes.
+29. Classes help model real-world objects.
+30. Objects are instances of classes.

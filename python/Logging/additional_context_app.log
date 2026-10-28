@@ -1,0 +1,5 @@
+2026-08-15 11:52:23,240 - additional_context - DEBUG - This is a debug message - test_func - 14- UserID: user123 - SessionID: session456
+2026-08-15 11:52:23,240 - additional_context - INFO - This is a info message - test_func - 15- UserID: user123 - SessionID: session456
+2026-08-15 11:52:23,240 - additional_context - WARNING - This is a warning message - test_func - 16- UserID: user123 - SessionID: session456
+2026-08-15 11:52:23,240 - additional_context - ERROR - This is a error message - test_func - 17- UserID: user123 - SessionID: session456
+2026-08-15 11:52:23,240 - additional_context - CRITICAL - This is a critical message - test_func - 18- UserID: user123 - SessionID: session456

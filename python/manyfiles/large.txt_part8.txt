@@ -1,0 +1,10 @@
+71. Microcontrollers are common in IoT projects.
+72. Raspberry Pi supports many experiments.
+73. Arduino is beginner-friendly.
+74. Debugging hardware requires patience.
+75. Careful planning prevents many mistakes.
+76. Small improvements lead to big progress.
+77. Curiosity drives innovation.
+78. Creativity enhances problem solving.
+79. Teamwork strengthens projects.
+80. Communication is an important skill.

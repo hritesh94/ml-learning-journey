@@ -1,0 +1,5 @@
+2026-08-15 10:16:38,111 - multi_format_logger - DEBUG - This is a debug message for multilogger
+2026-08-15 10:16:38,113 - multi_format_logger - INFO - This is a info message for multilogger
+2026-08-15 10:16:38,114 - multi_format_logger - WARNING - This is a warning message for multilogger
+2026-08-15 10:16:38,117 - multi_format_logger - CRITICAL - This is a critical message for multilogger
+2026-08-15 10:16:38,118 - multi_format_logger - ERROR - This is a error message for multilogger

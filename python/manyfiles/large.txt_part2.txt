@@ -1,0 +1,10 @@
+11. Sets automatically remove duplicate values.
+12. Strings are sequences of characters.
+13. Python has a simple and readable syntax.
+14. Comments make code easier to understand.
+15. Good variable names improve readability.
+16. Indentation is essential in Python.
+17. Errors are opportunities to learn.
+18. Debugging is a valuable programming skill.
+19. Practice is more effective than memorization.
+20. Reading documentation improves understanding.

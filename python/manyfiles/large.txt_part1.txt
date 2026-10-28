@@ -1,0 +1,10 @@
+1. Learning Python becomes easier with regular practice.
+2. Every small program teaches an important concept.
+3. Writing code daily builds confidence over time.
+4. Variables help store information for later use.
+5. Functions make programs organized and reusable.
+6. Loops reduce repetitive work in your code.
+7. Conditional statements allow programs to make decisions.
+8. Lists can store multiple values together.
+9. Dictionaries are useful for storing key-value pairs.
+10. Tuples provide immutable collections of data.
