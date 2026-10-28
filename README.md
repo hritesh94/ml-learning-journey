@@ -37,8 +37,8 @@ I followed Krish Naik's courses ([Complete Python Bootcamp](https://github.com/k
 | Folder | Contents |
 |---|---|
 | [`python/`](python) | Python Bootcamp assignments, data analysis, Flask, logging, concurrency |
-| [`New folder/`](New%20folder) | ML feature engineering notebooks |
-| [`New folder/eda/`](New%20folder/eda) | Exploratory data analysis projects |
+| [`feature-engineering/`](feature-engineering) | ML feature engineering notebooks |
+| [`feature-engineering/eda/`](feature-engineering/eda) | Exploratory data analysis projects |
 
 ### File naming in `python/`
 For most topics there are three notebooks:
@@ -46,7 +46,7 @@ For most topics there are three notebooks:
 - **`*_with_code_cells.ipynb`: my solutions** ← the main work
 - `*solution(s).ipynb`: the tutor's reference solution, which I used to check my answers
 
-In `New folder/`, the numbered notebooks (`1.0-…`, `2.0-…`, etc.) are the tutor's lecture notebooks. The notebooks with plain names (`Outliers.ipynb`, `smote_practice.ipynb`, …) are my own versions, rewritten while following along.
+In `feature-engineering/`, the numbered notebooks (`1.0-…`, `2.0-…`, etc.) are the tutor's lecture notebooks. The notebooks with plain names (`Outliers.ipynb`, `smote_practice.ipynb`, …) are my own versions, rewritten while following along.
 
 ---
 
@@ -109,7 +109,7 @@ Scripts that compare running time with and without concurrency (the timings are 
 
 ---
 
-## `New folder/`: ML feature engineering
+## `feature-engineering/`: ML feature engineering
 
 | My notebook | Tutor's lecture version | What it covers |
 |---|---|---|
@@ -121,7 +121,7 @@ Scripts that compare running time with and without concurrency (the timings are 
 | `Label_ordinal.ipynb` | `7.0-Label and Ordinal` | `LabelEncoder` vs `OrdinalEncoder` with an explicit category order |
 | — | `8.0-Target Guided Ordinal Encoding` | Encoding categories by the mean of the target |
 
-### `New folder/eda/`: EDA projects
+### `feature-engineering/eda/`: EDA projects
 - **`wine_quality.ipynb`** (my version of `1.0-WinequalityEDA`): red wine quality dataset (`winequality-red.csv`). Checks for duplicates and missing values, looks at the quality distribution, and studies correlations with heatmaps, histograms, and scatter plots.
 - **`flight.ipynb`** (my version of `2.0-EDA And FE Flight Price`): flight price data (`flight_price.xlsx`). Splits dates and times into day, month, hour, and minute, converts duration to minutes, maps stops to numbers, and one-hot encodes airline, source, and destination.
 - **`Google-Playstore.ipynb`** (my version of `3.0-EDA And FE Google Playstore`): cleans the Google Play Store dataset (converts reviews, sizes with `M`/`k`, installs with `+`/`,`, and prices to numbers; parses dates; removes duplicates), then explores categories, ratings, installs, and paid vs free apps. Saves the result to `google_cleaned.csv`.
